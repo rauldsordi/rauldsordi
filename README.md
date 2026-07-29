@@ -14,7 +14,7 @@ I don't come from a traditional dev background. I come from actually fixing brok
 - **RAG (Retrieval-Augmented Generation)**: pipelines using Supabase Vector Store + Gemini for embeddings and generation
 - **Multi-agent systems**: agent orchestration with Gemini + Telegram
 - **MCP (Model Context Protocol)**: setting up and exploring integration with Claude Desktop
-- 
+
 ## 🧰 Stack
  
 `n8n` · `Python` · `SQL` · `Gemini API` · `Supabase (Vector Store)` · `Telegram Bot API` · `Docker` · `Google AI Studio`
