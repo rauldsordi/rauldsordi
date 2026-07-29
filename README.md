@@ -1,4 +1,4 @@
-# Hi, I'm Raul 👋
+# Hi, I'm Raul Sordi
  
 **Senior Support Analyst → AI Automation & Applied AI**
  
