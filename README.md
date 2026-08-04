@@ -21,6 +21,9 @@ I don't come from a traditional dev background. I come from actually fixing brok
  
 ## 📌 Projects
  
+### [multi_agent_business_development_system](https://github.com/rauldsordi/multi_agent_business_development_system)
+AI orchestrator and voice agent that find leads, create CRM records, and book demos in google calendar.
+
 ### [n8n-financial-multiagent](https://github.com/rauldsordi/n8n-financial-multiagent)
 Multi-agent AI system for financial advisory customer service — n8n + Gemini + Telegram.
  
