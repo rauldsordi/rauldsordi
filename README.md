@@ -27,7 +27,7 @@ AI orchestrator and voice agent that find leads, create CRM records, and book de
 ### [n8n-financial-multiagent](https://github.com/rauldsordi/n8n-financial-multiagent)
 Multi-agent AI system for financial advisory customer service — n8n + Gemini + Telegram.
 
-### [voice_agent_RAG](https://github.com/rauldsordi/n8n-financial-multiagent](https://github.com/rauldsordi/voice_agent_RAG)
+### [voice_agent_RAG](https://github.com/rauldsordi/voice_agent_RAG)
 A voice agent powered by RAG — n8n, Gemini embeddings, and Supabase Vector Store for context-aware answers.
  
 ### [refund_request_automation_n8n](https://github.com/rauldsordi/refund_request_automation_n8n)
