@@ -35,9 +35,9 @@ n8n workflow that automates refund request triage using an AI Agent (Gemini 2.5 
  
 > More projects coming soon — currently publishing additional workflows I've built.
  
-## 📈 Why this transition
+## 📈 The problem I'm solving
  
-Eight years of watching exactly where manual processes break, generate SLA bottlenecks, and create rework — that's precisely the kind of problem AI automation solves. I'm building and documenting this transition in public.
+Eight years of watching exactly where manual processes break, generate SLA bottlenecks, and create rework — that's precisely the kind of problem AI automation solves. I'm building and documenting these projects in public.
  
 ## 📫 Contact
  
