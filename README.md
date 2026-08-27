@@ -1,6 +1,6 @@
 # Hi, I'm Raul Sordi
  
-**Senior Support Analyst | AI Automation Engineer*
+**Senior Support Analyst | AI Automation Engineer**
  
 I lead a technical support team (~8 years in IT support), working deeply with SQL-based ERP systems covering end-to-end business processes, including Brazilian tax compliance. I'm now applying that process/systems background to build AI automation and agent systems.
  
